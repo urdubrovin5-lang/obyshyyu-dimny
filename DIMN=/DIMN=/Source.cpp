@@ -18,7 +18,7 @@ int main() {
 
     scanf_s("%d %d", &a, &b);
 
-
+    printf(" ¿ ¿ﬂ“Œ ’”…Õﬂ")
 
     int num = a;
     int count = 0;
